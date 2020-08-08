@@ -1,8 +1,8 @@
 package gituy;
 
 public class Test {
-
-	public void main(String[] args) {
-		System.out.println("csan you please add");
+	private void syso() {
+		// TODO Auto-generated method stub
+		System.out.println("ok");
 	}
-}
+	}
